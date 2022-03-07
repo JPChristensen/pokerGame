@@ -1,0 +1,11 @@
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\PokerGame.csproj.AssemblyReference.cache
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\PokerGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\pokerGame.Main.resources
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\HW4ChristensenJakob.Properties.Resources.resources
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\PokerGame.csproj.GenerateResource.cache
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\HW4ChristensenJakob.exe
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\obj\Debug\HW4ChristensenJakob.pdb
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\bin\Debug\HW4ChristensenJakob.exe.config
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\bin\Debug\HW4ChristensenJakob.exe
+C:\Users\jchristensen\Desktop\pokerGame\pokerGame\bin\Debug\HW4ChristensenJakob.pdb

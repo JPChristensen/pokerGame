@@ -1,0 +1,21 @@
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\bin\Debug\HW4ChristensenJakob.exe.config
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\bin\Debug\HW4ChristensenJakob.exe
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\bin\Debug\HW4ChristensenJakob.pdb
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csprojAssemblyReference.cache
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.Main.resources
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.Properties.Resources.resources
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csproj.GenerateResource.cache
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csproj.CoreCompileInputs.cache
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.exe
+C:\Users\Jakob Christensen\Documents\Visual Studio 2017\Projects\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.pdb
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\bin\Debug\HW4ChristensenJakob.exe.config
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\bin\Debug\HW4ChristensenJakob.exe
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\bin\Debug\HW4ChristensenJakob.pdb
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csproj.AssemblyReference.cache
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csproj.SuggestedBindingRedirects.cache
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.Main.resources
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.Properties.Resources.resources
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csproj.GenerateResource.cache
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.csproj.CoreCompileInputs.cache
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.exe
+C:\Users\jchristensen\Desktop\Poker-Game-master\Poker-Game-master\HW4ChristensenJakob\HW4ChristensenJakob\obj\Debug\HW4ChristensenJakob.pdb
